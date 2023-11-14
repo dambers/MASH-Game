@@ -1,6 +1,6 @@
 
-<html>
-<body>
+
+
 // New function called random_number that takes one parameter, num (or a number)
 function random_number(num) {
 	// Get a random number between 0 and a passed-in number
@@ -75,7 +75,4 @@ var form = document.querySelector('#mash');
 // Anytime the form is submitted, we want to call the function handle_submission
 form.addEventListener('submit', handle_submission);
 
-  <script src="script.js" defer></script>
-
-</body>
-</html>
+  
